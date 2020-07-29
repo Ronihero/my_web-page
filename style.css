@@ -1,0 +1,24 @@
+body{
+    font-family: 'Charm', cursive;
+
+}
+
+
+h1{
+    font-size: 40px;
+}
+.ami{
+    color: orange;
+}
+.harf-wit{
+    float: left;
+    width:30%;
+    margin-top:1%;
+    padding-left:5%;
+}
+.harf-withe img{
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+    width: 26%;
+}
