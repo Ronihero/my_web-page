@@ -22,3 +22,17 @@ h1{
     padding-right: 2%;
     width: 26%;
 }
+h2{
+    font-size: 40px;
+}
+.link_batton{
+    text-decoration: none;
+     background-image:linear-gradient(yellow,red);
+     padding: 10px 20px;
+     border-radius: 5px;
+     color: white;
+     font-weight: bold;
+}
+section#top_banner{
+    overflow: hidden;
+}
