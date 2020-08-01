@@ -1,7 +1,5 @@
-body{
-    font-family: 'Charm', cursive;
 
-}
+.{margin:0;padding:0;}
 
 
 h1{
@@ -13,13 +11,9 @@ h1{
 .harf-wit{
     float: left;
     width:30%;
-    margin-top:1%;
-    padding-left:5%;
 }
 .harf-withe img{
     float: right;
-    margin-right: 5%;
-    padding-right: 2%;
     width: 26%;
 }
 h2{
@@ -36,3 +30,21 @@ h2{
 section#top_banner{
     overflow: hidden;
 }
+#allblocks{ 
+
+    background:#ddd ;
+   width: 330px;
+   padding: 15px;
+}
+    #section_title{
+        text-align: center;
+    }
+    div#rightcontent{
+        width: 250px;
+    }
+#lefticon{
+    font-size: 50px;
+    float: left;
+    margin-top: 10px;
+}
+#rightcontent,#lefticon{display: inline-block;}
